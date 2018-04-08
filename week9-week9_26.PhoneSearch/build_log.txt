@@ -1,0 +1,81 @@
+
+-pre-init:
+
+-init-private:
+
+-init-user:
+
+-init-project:
+
+-init-macrodef-property:
+
+-do-init:
+
+-post-init:
+
+-init-check:
+
+-init-ap-cmdline-properties:
+
+-init-macrodef-javac-with-processors:
+
+-init-macrodef-javac-without-processors:
+
+-init-macrodef-javac:
+
+-init-macrodef-junit:
+
+-init-debug-args:
+
+-init-macrodef-nbjpda:
+
+-init-macrodef-debug:
+
+-init-macrodef-java:
+
+-init-presetdef-jar:
+
+-init-ap-cmdline-supported:
+
+-init-ap-cmdline:
+
+init:
+
+-deps-jar-init:
+
+deps-jar:
+    [mkdir] Created dir: C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build
+
+-warn-already-built-jar:
+[propertyfile] Updating property file: C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build\built-jar.properties
+
+-check-automatic-build:
+
+-clean-after-automatic-build:
+
+-verify-automatic-build:
+
+-pre-pre-compile:
+    [mkdir] Created dir: C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build\classes
+
+-pre-compile:
+
+-copy-persistence-xml:
+
+-compile-depend:
+
+-do-compile:
+    [mkdir] Created dir: C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build\empty
+    [mkdir] Created dir: C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build\generated-sources\ap-source-output
+    [javac] Compiling 4 source files to C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\build\classes
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+    [javac] C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\src\Person.java:12: error: diamond operator is not supported in -source 1.6
+    [javac]         this.phoneNumbers = new ArrayList<>();
+    [javac]                                           ^
+    [javac]   (use -source 7 or higher to enable diamond operator)
+    [javac] C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_26.PhoneSearch\src\PhoneBook.java:12: error: diamond operator is not supported in -source 1.6
+    [javac]         this.allPeople = new HashMap<>();
+    [javac]                                      ^
+    [javac]   (use -source 7 or higher to enable diamond operator)
+    [javac] 2 errors
+    [javac] 1 warning

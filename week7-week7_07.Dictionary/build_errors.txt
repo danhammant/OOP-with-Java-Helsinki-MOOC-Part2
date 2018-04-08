@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week7-week7_07.Dictionary\nbproject\build-impl.xml:926: The following error occurred while executing this line:
+C:\Users\Dan\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week7-week7_07.Dictionary\nbproject\build-impl.xml:268: Compile failed; see the compiler error output for details.
+
+Total time: 2 seconds
